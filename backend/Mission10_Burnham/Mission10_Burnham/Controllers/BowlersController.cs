@@ -27,6 +27,7 @@ public class BowlersController : Controller
             {
                 b.BowlerID,
                 b.BowlerFirstName,
+                b.BowlerMiddleInit,
                 b.BowlerLastName,
                 b.BowlerAddress,
                 b.BowlerCity,
